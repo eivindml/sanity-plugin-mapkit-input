@@ -19,3 +19,7 @@ Add `mapkit-input.json` to your `config/` folder and add the following config:
   }
 }
 ```
+
+### Generate Token
+
+It's a bit complicated to generate the token. Please watch this WWDC presentation to see how to generate it: [Getting and Using a MapKit JS Key](https://developer.apple.com/videos/play/wwdc2018/508). Maybe I'll make this easier in the future.
